@@ -1,0 +1,10 @@
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/dataaccess/EmployeeDaoJpaImpl.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/services/task/TaskService.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/domain/Task.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/services/employee/EmployeeManagementServiceImpl.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/services/task/TaskServiceImpl.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/client/Client.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/domain/Employee.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/dataaccess/RecordNotFoundException.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/dataaccess/EmployeeDao.java
+/home/grzesiek/workspace/EmployeeRepoMaven/src/main/java/pl/debuguj/spring/services/employee/EmployeeManagementService.java
