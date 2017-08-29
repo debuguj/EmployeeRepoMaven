@@ -31,6 +31,7 @@ public class Client {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
 //		Task t1 = new Task(1, "Make database management");
 //		Task t2 = new Task(2, "Make security");		
 //				
